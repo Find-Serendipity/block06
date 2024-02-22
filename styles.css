@@ -1,0 +1,125 @@
+body {
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/121d52c3-440b-48ea-ab9e-8be8dd70abcd/d73k5mj-9b133ee7-cfd1-453c-8f17-b86da9060ce3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyMWQ1MmMzLTQ0MGItNDhlYS1hYjllLThiZThkZDcwYWJjZFwvZDczazVtai05YjEzM2VlNy1jZmQxLTQ1M2MtOGYxNy1iODZkYTkwNjBjZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NAPy4F9zGd5OKw4cLrQ9_xobFvkipJfQ58vWB62UoP4");
+    list-style-position: inside;
+}
+
+ol {
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+}
+
+.type {
+    width: 600;
+    border: 4px dashed black;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgba(138, 36, 36, 0.29);
+}
+
+.items {
+    border: 5px black;
+    border-bottom-style: solid;
+    padding: 10px;
+    margin: 2px;
+    display: block;
+    position: relative;
+    text-align: center;
+    background-color: rgba(151, 118, 94, 0.696);
+    border-radius: 20%;
+}
+
+.fresh {
+    width: 200px;
+    border: 4px dashed black;
+    padding: 10px;
+    margin: 2px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(134, 147, 49, 0.4);
+}
+
+.frozen {
+    width: 200px;
+    border: 4px solid black;
+    padding: 10px;
+    margin: 2px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(43, 83, 139, 0.4);
+}
+
+.image {
+    padding: 10px;
+    margin: 3px
+}
+
+.empty {
+    padding:10px
+}
+
+#freshitems {
+    text-align: center;
+}
+
+#frozenitems {
+    text-align: center;
+}
+
+#fruits {
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+    text-decoration: underline;
+    background-color: rgba(250, 235, 215, 0.311);
+    border-radius: 35%;
+}
+
+#vegetables {
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+    text-decoration: underline;
+    background-color: rgba(250, 235, 215, 0.311);
+    border-radius: 35%;
+}
+
+#savory {
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+    text-decoration: underline;
+    background-color: rgba(250, 235, 215, 0.311);
+    border-radius: 35%;
+}
+
+#sweet {
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+    text-decoration: underline;
+    background-color: rgba(250, 235, 215, 0.311);
+    border-radius: 35%;
+
+}
+
+#title {
+    border: 8px black;
+    border-style: dotted dashed solid double;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    width: 700px;
+    border-radius: 100%;
+    color: rgba(185, 0, 0, 0.7);
+}
